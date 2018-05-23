@@ -6,7 +6,7 @@ Gerardo Omar Morales Serna (Product Owner)
 Correo:
 
 Carlos Francisco Rosas Villagrán (Scrum Master)
-Correo: carlos.rosas9610@gmail.com
+Correo: charliesunam9610@gmail.com
 
 Mildred Ordoñez Godinez (Scrum Team)
 Correo: mikaogod@gmail.com
