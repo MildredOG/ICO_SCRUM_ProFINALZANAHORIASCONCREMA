@@ -12,4 +12,4 @@ Mildred Ordoñez Godinez (Scrum Team)
 Correo: mikaorgod@gmail.com
 
 Carlos Ovando Martínez (Scrum Team)
-Correo: 
+Correo: carlos.ovando.martinez.133@gmail.com
