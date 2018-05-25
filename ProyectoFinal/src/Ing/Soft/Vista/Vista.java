@@ -53,6 +53,8 @@ public class Vista extends javax.swing.JFrame {
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
 
+        jTabbedPane2.setBackground(new java.awt.Color(97, 83, 35));
+
         jPanel5.setBackground(java.awt.Color.red);
 
         jLabel1.setFont(new java.awt.Font("Ubuntu", 0, 36)); // NOI18N
@@ -78,7 +80,7 @@ public class Vista extends javax.swing.JFrame {
 
         jTabbedPane2.addTab("Index", jPanel5);
 
-        jPanel6.setBackground(java.awt.Color.white);
+        jPanel6.setBackground(new java.awt.Color(88, 255, 208));
 
         javax.swing.GroupLayout jPanel6Layout = new javax.swing.GroupLayout(jPanel6);
         jPanel6.setLayout(jPanel6Layout);
@@ -91,7 +93,9 @@ public class Vista extends javax.swing.JFrame {
             .addGap(0, 250, Short.MAX_VALUE)
         );
 
-        jTabbedPane2.addTab("Scrum", jPanel6);
+        jTabbedPane2.addTab("Ing. Soft", jPanel6);
+
+        jPanel2.setBackground(new java.awt.Color(93, 83, 35));
 
         javax.swing.GroupLayout jPanel2Layout = new javax.swing.GroupLayout(jPanel2);
         jPanel2.setLayout(jPanel2Layout);
@@ -104,7 +108,9 @@ public class Vista extends javax.swing.JFrame {
             .addGap(0, 250, Short.MAX_VALUE)
         );
 
-        jTabbedPane2.addTab("Ing, Soft", jPanel2);
+        jTabbedPane2.addTab("Scrum", jPanel2);
+
+        jPanel3.setBackground(new java.awt.Color(97, 51, 51));
 
         javax.swing.GroupLayout jPanel3Layout = new javax.swing.GroupLayout(jPanel3);
         jPanel3.setLayout(jPanel3Layout);
