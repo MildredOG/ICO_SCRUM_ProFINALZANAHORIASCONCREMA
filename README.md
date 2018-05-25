@@ -3,7 +3,7 @@
 Equipo: Zanahorias con Crema
 
 Gerardo Omar Morales Serna (Product Owner)
-Correo:
+Correo:omoralesserna@gmail.com
 
 Carlos Francisco Rosas Villagrán (Scrum Master)
 Correo: charliesunam9610@gmail.com
